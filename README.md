@@ -48,8 +48,9 @@
 [![image](https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/7a35ae27-b058-4913-9660-e84910bb1b35)](https://www.hackerrank.com/abhirajadhikary1)
 
 
+## Badges
+![image](https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/aa49d230-ad3e-44a4-9f2c-7ed930427e5e)
 
-![image](https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/038dc492-c64d-418d-b249-4682a08f19d7)
 
 
 ## Connect with me:
