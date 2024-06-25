@@ -1,8 +1,8 @@
 ![Profile Banner](https://example.com/your-banner-image) <!-- Add your banner image URL here -->
-<div align="center">
-  <h1>Hi there! I'm Abhiraj Adhikary<span><img src="https://drive.google.com/uc?export=view&id=1fquStfgXuJmU5Kic1iReFXT7NCb9Zuz5" width="50" style="vertical-align: middle;"></span></h1> 
-  
+<div style="text-align: center;">
+  <h1 style="display: inline-block;">Hi there! I'm Abhiraj Adhikary<span style="margin-left: 10px; vertical-align: middle;"><img src="https://drive.google.com/uc?export=view&id=1fquStfgXuJmU5Kic1iReFXT7NCb9Zuz5" width="50" style="vertical-align: middle;"></span></h1>
 </div>
+
 
 **Data Science & Software Engineering Enthusiast | Open Source Contributor | Graphic Designer**
 
