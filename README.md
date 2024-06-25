@@ -49,7 +49,8 @@
 
 
 
-![image](https://devfolio.co/skill-verified-frontend.b9559f3f..png)
+![image](https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/038dc492-c64d-418d-b249-4682a08f19d7)
+
 
 ## Connect with me:
 
