@@ -44,12 +44,12 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ## Skills Achievements
-
 [![image](https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/7a35ae27-b058-4913-9660-e84910bb1b35)](https://www.hackerrank.com/abhirajadhikary1)
 
 
 ## Badges
-![image](https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/aa49d230-ad3e-44a4-9f2c-7ed930427e5e)
+![image](https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/cdfccab1-a7b9-441a-91db-58d5827ded74)
+)
 
 
 
