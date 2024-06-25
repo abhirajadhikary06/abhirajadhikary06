@@ -43,7 +43,7 @@
 
 ## Achievements
 
-![Python Hackerrank 4-Star][(![image](https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/7a35ae27-b058-4913-9660-e84910bb1b35)
+![(![image](https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/7a35ae27-b058-4913-9660-e84910bb1b35)
 )](https://www.hackerrank.com/abhirajadhikary1)
 
 
