@@ -1,6 +1,9 @@
 ![Profile Banner](https://example.com/your-banner-image) <!-- Add your banner image URL here -->
-# Hi there! I'm Abhiraj Adhikary
-![gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fthirstymag.com%2FRoyale-Stickers-GIFs-on-GIPHY-Be-Animated-2992093.html&psig=AOvVaw2ZN6vD_NFbK0TYw5y6GaHR&ust=1719383830154000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKCDv-GT9oYDFQAAAAAdAAAAABAD)
+<div align="center">
+  <h1>Hi there! I'm Abhiraj Adhikary</h1>
+  <img src="https://drive.google.com/uc?export=view&id=1fquStfgXuJmU5Kic1iReFXT7NCb9Zuz5" width="100">
+</div>
+
 
 
 **Data Science & Software Engineering Enthusiast | Open Source Contributor | Graphic Designer**
