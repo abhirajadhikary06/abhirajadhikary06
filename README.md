@@ -60,6 +60,7 @@
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/abhirajadhikary1)
 [![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/0vz9vQHr2y/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhirajadhikary06)
-[![Devfolio](https://img.shields.io/badge/Devfolio-Profile-blue?logo=devfolio)](https://devfolio.co/@abhirajadhikary)
+[![Devfolio](https://img.shields.io/badge/Devfolio-Profile-9cf?style=for-the-badge&logo=devfolio)](https://devfolio.co/@abhirajadhikary)
+
 
 **THANK YOU FOR VISITING! DO FOLLOW AND STAY CONNECTED {"_"}**
