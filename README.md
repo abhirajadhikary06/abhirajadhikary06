@@ -43,9 +43,8 @@
 
 ## Achievements
 
-![Python Hackerrank 4-Star](https://example.com/path-to-your-python-hackerrank-4-star-badge)
+![Python Hackerrank 4-Star](https://www.hackerrank.com/abhirajadhikary1)
 
-## GitScript Summer Of Code (GSSoC'24) Achievement/Badges
 
 ![Badge1](https://example.com/path-to-badge1-image)
 ![Badge2](https://example.com/path-to-badge2-image)
