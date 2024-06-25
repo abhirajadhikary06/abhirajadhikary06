@@ -49,7 +49,7 @@
 
 
 
-!(https://devfolio.co/skill-verified-frontend.b9559f3f..png)
+![image](https://devfolio.co/skill-verified-frontend.b9559f3f..png)
 
 ## Connect with me:
 
