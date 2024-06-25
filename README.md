@@ -1,8 +1,9 @@
 ![Profile Banner](https://example.com/your-banner-image) <!-- Add your banner image URL here -->
 <div align="center">
-  <h1 style="display: inline;">Hi there! I'm Abhiraj Adhikary</h1>
-  <img src="https://drive.google.com/uc?export=view&id=1fquStfgXuJmU5Kic1iReFXT7NCb9Zuz5" width="100" style="vertical-align: middle;">
+  <span style="font-size: 2em;">Hi there! I'm Abhiraj Adhikary</span>
+  <img src="https://drive.google.com/uc?export=view&id=1fquStfgXuJmU5Kic1iReFXT7NCb9Zuz5" width="50" style="vertical-align: middle;">
 </div>
+
 
 
 
