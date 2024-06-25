@@ -48,7 +48,8 @@
 
 
 ## Badges
-![image](https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/cdfccab1-a7b9-441a-91db-58d5827ded74)
+![image](![image](https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/4682dafd-bf4a-4c70-a531-c1b4d6d97a99)
+
 
 
 
@@ -59,5 +60,6 @@
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/abhirajadhikary1)
 [![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/0vz9vQHr2y/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhirajadhikary06)
+[![Devfolio](https://img.shields.io/badge/Devfolio-Profile-blue?logo=devfolio)](https://devfolio.co/@abhirajadhikary)
 
 **THANK YOU FOR VISITING! DO FOLLOW AND STAY CONNECTED {"_"}**
