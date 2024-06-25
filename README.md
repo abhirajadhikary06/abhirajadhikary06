@@ -1,6 +1,5 @@
-# Hi there! I'm Abhiraj Adhikary 👋
-
 ![Profile Banner](https://example.com/your-banner-image) <!-- Add your banner image URL here -->
+# Hi there! I'm Abhiraj Adhikary 👋
 
 **Data Science & Software Engineering Enthusiast | Open Source Contributor | Graphic Designer**
 
