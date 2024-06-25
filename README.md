@@ -43,18 +43,13 @@
 ### Problem Solving:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-## Achievements
+## Skills Achievements
 
 [![image](https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/7a35ae27-b058-4913-9660-e84910bb1b35)](https://www.hackerrank.com/abhirajadhikary1)
 
 
 
-![Badge1](https://example.com/path-to-badge1-image)
-![Badge2](https://example.com/path-to-badge2-image)
-![Badge3](https://example.com/path-to-badge3-image)
-![Badge4](https://example.com/path-to-badge4-image)
-![Badge5](https://example.com/path-to-badge5-image)
-![Badge6](https://example.com/path-to-badge6-image)
+!(https://devfolio.co/skill-verified-frontend.b9559f3f..png)
 
 ## Connect with me:
 
