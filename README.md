@@ -57,19 +57,12 @@
 [![Reddit Rover](https://img.shields.io/badge/Reddit%20Rover-Top%20reddit%20feed%20scraper-purple?style=for-the-badge&labelColor=white&logo=![image](https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/7a6139a0-3df3-4378-945e-6662f4d347c6)
 )](https://redditrover.pythonanywhere.com)
 
-
-
 ## Skills Achievements
 [![image](https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/7a35ae27-b058-4913-9660-e84910bb1b35)](https://www.hackerrank.com/abhirajadhikary1)
 [![image](https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/75e4bf72-2f50-4616-88b3-bc047e19b7ab)](https://www.hackerrank.com/abhirajadhikary1)
 
-
 ## Badges
 ![image](https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/4682dafd-bf4a-4c70-a531-c1b4d6d97a99)
-
-
-
-
 
 ## Connect with me:
 
