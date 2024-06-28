@@ -54,8 +54,8 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ### Projects
-[![Reddit Rover](https://img.shields.io/badge/Reddit%20Rover-Top%20reddit%20feed%20scraper-purple?style=for-the-badge&labelColor=white&logo=![image](https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/7a6139a0-3df3-4378-945e-6662f4d347c6)
-)](https://redditrover.pythonanywhere.com)
+[![Reddit Rover](https://img.shields.io/badge/Reddit%20Rover-Top%20reddit%20feed%20scraper-596AFF?style=for-the-badge&labelColor=white&logo=)](https://redditrover.pythonanywhere.com)
+
 
 ## Skills Achievements
 [![image](https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/7a35ae27-b058-4913-9660-e84910bb1b35)](https://www.hackerrank.com/abhirajadhikary1)
