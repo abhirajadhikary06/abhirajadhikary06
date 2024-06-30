@@ -63,6 +63,7 @@
 
 ## Badges
 ![image](https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/4682dafd-bf4a-4c70-a531-c1b4d6d97a99)
+![image](https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-06.gif)
 
 ## Connect with me:
 
