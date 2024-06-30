@@ -62,7 +62,7 @@
 [![image](https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/75e4bf72-2f50-4616-88b3-bc047e19b7ab)](https://www.hackerrank.com/abhirajadhikary1)
 
 ## Badges
-<img src="https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/4682dafd-bf4a-4c70-a531-c1b4d6d97a99" width="90px" height="110.59px" /> <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-06.gif" width="90px" height="90px" />
+<img src="https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/4682dafd-bf4a-4c70-a531-c1b4d6d97a99" width="90px" height="110.59px" />                         <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-06.gif" width="90px" height="90px" />
 
 
 
