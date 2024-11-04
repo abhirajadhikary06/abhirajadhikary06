@@ -8,7 +8,7 @@
 
 **Data Science & Software Engineering Enthusiast | Open Source Contributor | Graphic Designer**
 
-🌱 I'm currently learning about: Web Development (Flask) and MERN.
+🌱 I'm currently follow steps to master: Data Engineering.
 
 💬 Ask me about Python / SQL / Web Dev / Designing / Anything.
 
@@ -66,8 +66,13 @@
 [![Reddit Rover](https://img.shields.io/badge/Reddit%20Rover-Top%20reddit%20feed%20scraper-596AFF?style=for-the-badge&labelColor=white&logo=)](https://redditrover.pythonanywhere.com)
 
 ## Skills Achievements
-[![image](https://github.com/user-attachments/assets/c6de0763-1705-4516-9531-cf4932ede734 | width=100px height=100px)](https://www.hackerrank.com/abhirajadhikary1)
-[![image](https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/75e4bf72-2f50-4616-88b3-bc047e19b7ab | width=100px height=100px)](https://www.hackerrank.com/abhirajadhikary1)
+<a href="https://www.hackerrank.com/abhirajadhikary1">
+    <img src="https://github.com/user-attachments/assets/c6de0763-1705-4516-9531-cf4932ede734" alt="image" width="100" height="100">
+</a>
+<a href="https://www.hackerrank.com/abhirajadhikary1">
+    <img src="https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/75e4bf72-2f50-4616-88b3-bc047e19b7ab" alt="image" width="100" height="100">
+</a>
+
 
 
 ## Badges
