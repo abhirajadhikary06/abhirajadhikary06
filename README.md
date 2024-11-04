@@ -66,8 +66,9 @@
 [![Reddit Rover](https://img.shields.io/badge/Reddit%20Rover-Top%20reddit%20feed%20scraper-596AFF?style=for-the-badge&labelColor=white&logo=)](https://redditrover.pythonanywhere.com)
 
 ## Skills Achievements
-[![image](https://github.com/user-attachments/assets/c6de0763-1705-4516-9531-cf4932ede734)](https://www.hackerrank.com/abhirajadhikary1)
-[![image](https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/75e4bf72-2f50-4616-88b3-bc047e19b7ab)](https://www.hackerrank.com/abhirajadhikary1)
+[![image](https://github.com/user-attachments/assets/c6de0763-1705-4516-9531-cf4932ede734 | width=100px height=100px)](https://www.hackerrank.com/abhirajadhikary1)
+[![image](https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/75e4bf72-2f50-4616-88b3-bc047e19b7ab | width=100px height=100px)](https://www.hackerrank.com/abhirajadhikary1)
+
 
 ## Badges
 <img src="https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/4682dafd-bf4a-4c70-a531-c1b4d6d97a99" width="90px" height="110.59px" />  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-06.gif" width="90px" height="90px" /> <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="90px" height="90px" /><img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-tea-robe-witch-eclipse.webp" width="90px" height="90px" />
