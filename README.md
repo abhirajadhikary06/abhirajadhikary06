@@ -62,8 +62,6 @@
 ### Problem Solving:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-### Projects
-[![Reddit Rover](https://img.shields.io/badge/Reddit%20Rover-Top%20reddit%20feed%20scraper-596AFF?style=for-the-badge&labelColor=white&logo=)](https://redditrover.pythonanywhere.com)
 
 ## Skills Achievements
 <a href="https://www.hackerrank.com/abhirajadhikary1">
