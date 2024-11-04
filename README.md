@@ -1,7 +1,7 @@
 <!-- Add your banner image URL here -->
 <div align="center">
   <h1>🔥 Hi there! I'm Abhiraj Adhikary
-  <span><img src="https://drive.google.com/uc?export=view&id=1fquStfgXuJmU5Kic1iReFXT7NCb9Zuz5" width="50" style="vertical-align: middle;"> </span></h1>
+  <span><img src="https://github.com/user-attachments/assets/20e41aaa-f73a-4ca2-9b9c-26ce1210b255" width="50" style="vertical-align: middle;"> </span></h1>
 </div>
 
 
