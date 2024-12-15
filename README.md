@@ -96,6 +96,7 @@
 [![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/0vz9vQHr2y/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhirajadhikary06)
 [![Devfolio](https://img.shields.io/badge/Devfolio-Profile-9cf?style=for-the-badge&logo=devfolio)](https://devfolio.co/@abhirajadhikary)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abhirajadhikary06)
 
 
 **THANK YOU FOR VISITING! DO FOLLOW AND STAY CONNECTED {"_"}**
