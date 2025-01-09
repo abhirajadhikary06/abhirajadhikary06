@@ -85,7 +85,8 @@
 
 
 ## Badges
-<img src="https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/4682dafd-bf4a-4c70-a531-c1b4d6d97a99" width="90px" height="110.59px" />  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-06.gif" width="90px" height="90px" /> <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="90px" height="90px" /><img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-tea-robe-witch-eclipse.webp" width="90px" height="90px" /> <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="90px" height="90px" /> <img src="https://images.g2crowd.com/uploads/achievement_badge/earned_badge_image/4/2be74dfe7ab9864c76d93be4a6f5ab09.svg" width="90px" height="90px" /> <img src="https://tinyurl.com/2xu4jh24" width="90px" height="90px" /> 
+<img src="https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/4682dafd-bf4a-4c70-a531-c1b4d6d97a99" width="90px" height="110.59px" />  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-06.gif" width="90px" height="90px" /> <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="90px" height="90px" /><img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-tea-robe-witch-eclipse.webp" width="90px" height="90px" /> <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="90px" height="90px" /> <img src="https://images.g2crowd.com/uploads/achievement_badge/earned_badge_image/4/2be74dfe7ab9864c76d93be4a6f5ab09.svg" width="90px" height="90px" /> <img src="https://tinyurl.com/2xu4jh24" width="90px" height="90px" /> <img src="https://github.com/user-attachments/assets/a17aafdd-e7cd-4393-b406-359afedaa277" width="90px" height="90px" />
+
 
 
 
