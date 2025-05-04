@@ -87,18 +87,8 @@
 
 
 
-## Skills Achievements
-<a href="https://www.hackerrank.com/abhirajadhikary1">
-    <img src="https://github.com/user-attachments/assets/c6de0763-1705-4516-9531-cf4932ede734" alt="image" width="100" height="100">
-</a>
-<a href="https://www.hackerrank.com/abhirajadhikary1">
-    <img src="https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/75e4bf72-2f50-4616-88b3-bc047e19b7ab" alt="image" width="100" height="100">
-</a>
-
-
-
 ## Badges
-<img src="https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/4682dafd-bf4a-4c70-a531-c1b4d6d97a99" width="90px" height="110.59px" />  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-06.gif" width="90px" height="90px" /> <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="90px" height="90px" /><img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-tea-robe-witch-eclipse.webp" width="90px" height="90px" /> <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="90px" height="90px" /> <img src="https://tinyurl.com/2xu4jh24" width="90px" height="90px" /> <img src="https://github.com/user-attachments/assets/a17aafdd-e7cd-4393-b406-359afedaa277" width="90px" height="90px" /> <img src="https://quira.sh/images/badges/daytona-23-badge.svg" width="90px" height="90px" /> <img src="https://quira.sh/images/badges/hacktoberfest-megaquest-impact.svg" width="90px" height="90px" /> <img src="https://github.com/user-attachments/assets/0ff0e752-e75b-49d8-87fe-2832cc2d6511" width="90px" height="90px" /> <img src="https://github.com/user-attachments/assets/e3331047-fcc1-476f-b22c-d6124396132d" width="90px" height="90px" /> <img src="https://github.com/user-attachments/assets/320a99b1-61b7-44f7-9648-8e0c4a316fc6" width="90px" height="90px"/> <img src="https://github.com/user-attachments/assets/cae3f068-7dd5-4edc-928b-70891716579d" width="90px" height="90px"/>
+<img src="https://github.com/abhirajadhikary06/abhirajadhikary06/assets/171187625/4682dafd-bf4a-4c70-a531-c1b4d6d97a99" width="90px" height="110.59px" />  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-06.gif" width="90px" height="90px" /> <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="90px" height="90px" /><img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-tea-robe-witch-eclipse.webp" width="90px" height="90px" /> <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="90px" height="90px" /> <img src="https://tinyurl.com/2xu4jh24" width="90px" height="90px" /> <img src="https://github.com/user-attachments/assets/a17aafdd-e7cd-4393-b406-359afedaa277" width="90px" height="90px" /> <img src="https://quira.sh/images/badges/daytona-23-badge.svg" width="90px" height="90px" /> <img src="https://quira.sh/images/badges/hacktoberfest-megaquest-impact.svg" width="90px" height="90px" /> <img src="https://github.com/user-attachments/assets/0ff0e752-e75b-49d8-87fe-2832cc2d6511" width="90px" height="90px" /> <img src="https://github.com/user-attachments/assets/e3331047-fcc1-476f-b22c-d6124396132d" width="90px" height="90px" /> <img src="https://github.com/user-attachments/assets/320a99b1-61b7-44f7-9648-8e0c4a316fc6" width="90px" height="90px"/> <img src="https://github.com/user-attachments/assets/cae3f068-7dd5-4edc-928b-70891716579d" width="90px" height="90px"/> <img src="https://github.com/user-attachments/assets/c6de0763-1705-4516-9531-cf4932ede734" width="90px" height="90px"/>
 
 
 ## Connect with me:
