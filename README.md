@@ -52,10 +52,7 @@
 <a href="https://neon.tech/" target="_blank">
   <img src="https://img.shields.io/badge/Neon-1a1a1a?style=for-the-badge&logoColor=white&labelColor=1a1a1a" />
 </a>
-<img src="https://media2.dev.to/dynamic/image/width=28,height=28,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F8214%2F1dedca6f-d508-49c2-8b23-220904e7dbe7.jpeg" height="28" />
-
-
-
+<img src="https://ml.globenewswire.com/Resource/Download/82e79fc7-1654-41e7-af70-f5857596743c?size=2" height="28" />
 
 
 ### Libraries:
