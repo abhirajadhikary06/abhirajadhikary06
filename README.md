@@ -49,7 +49,8 @@
 [![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 [![SQLite3](https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![DuckDB](https://img.shields.io/badge/DuckDB-FFF500?style=for-the-badge&logo=duckdb&logoColor=black)](https://duckdb.org/)
-[![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=white)](https://neon.tech/)
+![Neon](https://img.shields.io/badge/Neon-101010?style=for-the-badge&labelColor=101010&color=00E599&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAnFBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8oLMuvAAAAKHRSTlMAAQIDBAUGBwgJCgsMDQ4PEBESExQVFhcYGRobHB0eHyAhIiMkJo4wAAABJ0lEQVQYGe3QRxaCMBCE4ZNiAXGiUVLff9WfbpWJm+5VhrCAgyIj8D+qixZta2liI+6CgsFnTQX2i0WZTCHHOl5Na1ZGngBIQMQvd+6uMu9nD3nNgHbN5Bdwk6ErL+3wYagOV4IJDJn6tJ4jduHdU4xBv2lf7nsXv5r9Ew5sLfJ/vtIwAAAABJRU5ErkJggg==)
+
 
 
 
