@@ -52,7 +52,8 @@
 <a href="https://neon.tech/" target="_blank">
   <img src="https://img.shields.io/badge/Neon-1a1a1a?style=for-the-badge&logoColor=white&labelColor=1a1a1a" />
 </a>
-<img src="https://ml.globenewswire.com/Resource/Download/82e79fc7-1654-41e7-af70-f5857596743c?size=2" height="28" />
+<img src="https://ml.globenewswire.com/Resource/Download/82e79fc7-1654-41e7-af70-f5857596743c?size=2" height="20" />
+
 
 
 ### Libraries:
