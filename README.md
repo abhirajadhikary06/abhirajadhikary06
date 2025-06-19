@@ -41,7 +41,7 @@
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)](https://bulma.io/)
-[<img src="https://pbs.twimg.com/profile_images/445379763/tornado_400x400.png" alt="Tornado Logo" height="28"/>![Tornado](https://img.shields.io/badge/Tornado-1E90FF?style=for-the-badge)](https://www.tornadoweb.org/)
+[<img src="https://pbs.twimg.com/profile_images/445379763/tornado_400x400.png" alt="Tornado Logo" height="20"/>![Tornado](https://img.shields.io/badge/Tornado-1E90FF?style=for-the-badge)](https://www.tornadoweb.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
 
