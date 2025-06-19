@@ -52,7 +52,7 @@
 [![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 [![SQLite3](https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![DuckDB](https://img.shields.io/badge/DuckDB-FFF500?style=for-the-badge&logo=duckdb&logoColor=black)](https://duckdb.org/)
-[<img src="https://ml.globenewswire.com/Resource/Download/82e79fc7-1654-41e7-af70-f5857596743c?size=2" alt="Neon Logo" height="25"/> ![Neon](https://img.shields.io/badge/Neon-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=white)](https://neon.tech/)
+[<img src="https://ml.globenewswire.com/Resource/Download/82e79fc7-1654-41e7-af70-f5857596743c?size=2" alt="Neon Logo" height="25"/>![Neon](https://img.shields.io/badge/Neon-1a1a1a?style=for-the-badge&logo=&logoColor=white)](https://neon.tech/)
 
 
 
