@@ -89,6 +89,7 @@
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Render](https://img.shields.io/badge/Render-8a05ff?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
 [![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-139FD7?style=for-the-badge&logo=python&logoColor=white)](https://www.pythonanywhere.com/)
+[![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
 
