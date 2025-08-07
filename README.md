@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b0cb5be7-30b9-42f9-8763-ad8889bf5f94" width="350" style="vertical-align: middle;">
+  <img src="https://github.com/user-attachments/assets/5d393214-7d2f-45fa-9597-885de14d3f8b" width="350" style="vertical-align: middle;">
   <h1>🔥 Hi there! I'm Abhiraj Adhikary</h1>
 </div>
 
