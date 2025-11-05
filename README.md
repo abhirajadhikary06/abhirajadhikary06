@@ -4,24 +4,6 @@
 </div>
 
 
-
-
-**Data Science & Software Engineering Enthusiast | Open Source Contributor | Graphic Designer**
-
-🌱 I'm currently follow steps to master: Data Engineering.
-
-💬 Ask me about Python / SQL / Web Dev / Designing / Anything.
-
-📫 How to reach me: abhirajadhikary06@gmail.com
-
-⚡ About me: I'm a BackBencher with Lil Intelligence.
-
-💪 Smart Work + Automation + Quick Adaptation + Critical Thinking = ME
-
-🌍 I know English, Hindi, Bengali.
-
-🇮🇳 From India
-
 ## Skills and Expertise
 
 ### Programming Languages:
@@ -87,6 +69,7 @@
 ### Hosting & Deployments:
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-%23404041?logo=cloudflare&logoColor=%23F38020)](https://www.cloudflare.com/en-in)
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Render](https://img.shields.io/badge/Render-8a05ff?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
