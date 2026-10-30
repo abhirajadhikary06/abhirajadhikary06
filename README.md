@@ -1,111 +1,71 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/4ecf5580-869c-49a0-a2c7-70701072cba9" width="350" style="vertical-align: middle;">
-  <h1>🔥 Hi there! I'm Abhiraj Adhikary</h1>
-</div>
+# Abhiraj Adhikary
 
+**Software Engineer | Backend Systems | Data Engineering | Distributed Systems**
 
-## Skills and Expertise
+I build backend systems and data platforms, with an interest in distributed computing, database internals, and scalable infrastructure. I enjoy understanding existing systems, investigating engineering problems, and improving software reliability and performance.
 
-### Programming Languages:
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+Currently an **Engineer at OBLIQ-in**, working on core product and platform engineering. Previously a **Backend Engineering Intern at Springer Capital**.
 
-### Data Engineering
-[![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/docs/latest/api/python/)
-[![Spark Streaming](https://img.shields.io/badge/Spark%20Streaming-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/streaming/)
-[![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)](https://www.getdbt.com/)
-[![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white)](https://flink.apache.org/)
-[![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
-[![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge&logo=delta&logoColor=white)](https://delta.io/)
-[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://www.snowflake.com/)
-[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://www.databricks.com/)
-[![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)](https://cassandra.apache.org/)
-[![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)](https://www.metabase.com/)
+## Experience
 
-### Big Data Engineering:
-[![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)](https://hadoop.apache.org/)
-[![HDFS](https://img.shields.io/badge/HDFS-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)](https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html)
-[![YARN](https://img.shields.io/badge/YARN-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)](https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html)
-[![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)](https://hive.apache.org/)
-[![Pig](https://img.shields.io/badge/Apache%20Pig-E25A1C?style=for-the-badge&logo=apache&logoColor=white)](https://pig.apache.org/)
-[![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/docs/latest/api/python/)
-[![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
-[![Apache Flume](https://img.shields.io/badge/Apache%20Flume-000000?style=for-the-badge&logo=apache&logoColor=white)](https://flume.apache.org/)
-[![HBase](https://img.shields.io/badge/Apache%20HBase-FF6B35?style=for-the-badge&logo=apache&logoColor=white)](https://hbase.apache.org/)
-[![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)](https://cassandra.apache.org/)
+**OBLIQ-in — Engineer**
 
-### Framework:
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[<img src="https://pbs.twimg.com/profile_images/445379763/tornado_400x400.png" alt="Tornado Logo" height="25"/>![Tornado](https://img.shields.io/badge/Tornado-1E90FF?style=for-the-badge)](https://www.tornadoweb.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)](https://bulma.io/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+Building core product and platform capabilities around secure document sharing, audit workflow automation, firm workspaces, and client portal synchronization.
 
+- Reduced workspace loading time by **112× (~11s to ~98ms)** through 29 database indexes, covering indexes, and elimination of N+1 queries.
+- Reduced average database latency by **52.26%** through PostgreSQL connection pooling and concurrency optimization.
+- Reduced test execution time by **49%** through dynamic concurrency management using `os.availableParallelism()`.
+- Improved CI reliability by integrating PostgreSQL service containers, automated migrations, and fixing Node.js ESM path alias resolution.
+- Strengthened application resilience through database health-check timeouts and security upgrades to Next.js and Zod.
 
-### Database Management:
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
-[![SQLite3](https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![DuckDB](https://img.shields.io/badge/DuckDB-FFF500?style=for-the-badge&logo=duckdb&logoColor=black)](https://duckdb.org/)
-[<img src="https://ml.globenewswire.com/Resource/Download/82e79fc7-1654-41e7-af70-f5857596743c?size=2" alt="Neon Logo" height="15"/>![Neon](https://img.shields.io/badge/Neon-1a1a1a?style=for-the-badge&logo=&logoColor=white)](https://neon.tech/)
+**Springer Capital — Backend Engineering Intern**  
+*July 2025 – October 2025*
 
+- Led migration of Salesforce extraction components from Flask/SQLite to Django/PostgreSQL.
+- Developed and validated backend APIs using Swagger/OpenAPI.
+- Contributed to Azure deployment, configuration, and release workflows.
+- Established Salesforce connectivity and source data extraction pipelines.
+- Worked with Jira in an Agile engineering environment.
 
+## Open Source
 
-### Libraries:
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
-[![Scipy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
-[![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+I contribute to and explore open-source software, particularly Python ecosystems, backend infrastructure, databases, and data engineering tools.
 
-### API/Testion & Collaboration Tools:
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
-[![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/)
+My focus is on bug reproduction, correctness, performance optimization, test infrastructure, and maintainable engineering improvements.
 
-### Problem Solving:
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+- [Pull Requests](https://github.com/pulls?q=is%3Apr+author%3Aabhirajadhikary06)
+- [Issues and Discussions](https://github.com/issues?q=is%3Aissue+author%3Aabhirajadhikary06)
+- [GitHub Contributions](https://github.com/abhirajadhikary06)
 
+## Selected Projects
 
-### Open-Source Tools:
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+- [Realtime Search Pipeline](https://github.com/abhirajadhikary06/realtime-search-pipeline) — Kafka, Flink, Elasticsearch.
+- [CDC Streaming Pipeline](https://github.com/abhirajadhikary06/cdc-streaming-pipeline) — PostgreSQL, Debezium, Kafka, Spark Structured Streaming, Delta Lake.
+- [GTFS Realtime Streaming Pipeline](https://github.com/abhirajadhikary06/gtfs-realtime-streaming-pipeline) — Real-time transit data processing using a Kappa architecture.
+- [Payment Gateway Databricks Pipeline](https://github.com/abhirajadhikary06/payment-gateway-databricks-pipeline) — Databricks-based data engineering.
 
+## Research Interests
 
-### Hosting & Deployments:
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-[![Render](https://img.shields.io/badge/Render-8a05ff?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
-[![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-139FD7?style=for-the-badge&logo=python&logoColor=white)](https://www.pythonanywhere.com/)
-[![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+Distributed systems, serverless computing, cloud engineering, database systems, streaming architectures, and performance evaluation through practical research reproduction.
 
+## Technologies
 
-## Connect with me:
+**Languages:** Python, Go, R, C, Bash.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhirajadhikary06)
-[![Hackerrank](https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/abhirajadhikary1)
-[![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/0vz9vQHr2y/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhirajadhikary06)
-[![Devfolio](https://img.shields.io/badge/Devfolio-Profile-9cf?style=for-the-badge&logo=devfolio)](https://devfolio.co/@abhirajadhikary)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abhirajadhikary06)
+**Data Engineering:** Apache Spark, PySpark, Spark Streaming, Kafka, Flink, Airflow, dbt, Delta Lake, Databricks, Snowflake.
 
+**Big Data:** Hadoop, HDFS, YARN, Hive, Pig, Flume, HBase, Cassandra.
 
-**THANK YOU FOR VISITING! DO FOLLOW AND STAY CONNECTED {"_"}**
+**Backend:** Django, Flask, FastAPI, Tornado.
+
+**Databases:** PostgreSQL, MySQL, SQL Server, SQLite, DuckDB, Neon.
+
+**Data Science:** NumPy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn, Keras, TensorFlow.
+
+**Infrastructure & Cloud:** AWS, Azure, Cloudflare, Docker-related deployment workflows, Render, Railway, Vercel, Netlify, PythonAnywhere.
+
+**Tools & Other Technologies:** Git, GitHub, Postman, GraphQL, Figma, Replit, Supabase, Jupyter, Metabase, Streamlit, Bootstrap, Bulma, Tailwind CSS.
+
+## Connect
+
+[GitHub](https://github.com/abhirajadhikary06) · [LinkedIn](https://www.linkedin.com/in/abhirajadhikary06) · [LeetCode](https://leetcode.com/u/0vz9vQHr2y/) · [HackerRank](https://www.hackerrank.com/profile/abhirajadhikary1) · [Devfolio](https://devfolio.co/@abhirajadhikary) · [DEV Community](https://dev.to/abhirajadhikary06)
