@@ -81,6 +81,20 @@ Currently engineering at **OBLIQ-in**, working on backend infrastructure, databa
 <sub><strong>#226</strong> · <a href="https://github.com/manta-plan/manta">manta-plan/manta</a> · UI Feature</sub>
 </td>
 </tr>
+<tr>
+<td width="90" align="center" valign="middle">
+<a href="https://github.com/questdb">
+<img src="https://github.com/questdb.png?size=64" width="36" alt="QuestDB"/>
+</a>
+</td>
+<td valign="middle">
+<strong><a href="https://github.com/questdb/documentation/pull/66">Added new third-party tools - Airbyte</a></strong>
+<br/>
+<img src="https://img.shields.io/badge/⑂-Merged-8957e5?style=flat-square" height="20" alt="Merged PR"/>
+<br/>
+<sub><strong>#66</strong> · <a href="https://github.com/questdb/documentation">questdb/documentation</a> · Documentation</sub>
+</td>
+</tr>
 </table>
 
 
