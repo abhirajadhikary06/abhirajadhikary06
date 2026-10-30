@@ -37,10 +37,36 @@ Currently engineering at **OBLIQ-in**, working on backend infrastructure, databa
 ---
 
 ## Open Source & Engineering Contributions
-| Repository / PR | Contribution | Status |
-|---|---|---|
-| **[aio-libs/aiocache #1095](https://github.com/aio-libs/aiocache/pull/1095)** | Fixed `cached_stampede` behavior when `lease=None` or `0`, bypassing RedLock as documented. Added regression tests for concurrent execution and keyword forwarding; validated against 58 decorator tests. | **Open** |
-| **[OBLIQ-in #109](https://github.com/OBLIQ-in/obliq-in-app/pull/109)** | Optimized database indexes and workspace queries, eliminated N+1 loading, and improved PostgreSQL connection pooling for better application performance. | **Merged** |
+<table>
+<tr>
+<td>
+<a href="https://github.com/aio-libs/aiocache/pull/1095">
+<img src="https://github.com/aio-libs.png?size=40" width="28" align="left" />
+</a>
+</td>
+<td>
+<strong><a href="https://github.com/aio-libs/aiocache/pull/1095">Fix cached_stampede locking when lease is None</a></strong>
+<br/>
+<img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" width="14" /> Open
+<br/>
+<sub>#1095 · aio-libs/aiocache · Python</sub>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/OBLIQ-in/obliq-in-app/pull/109">
+<img src="https://github.com/OBLIQ-in.png?size=40" width="28" align="left" />
+</a>
+</td>
+<td>
+<strong><a href="https://github.com/OBLIQ-in/obliq-in-app/pull/109">Database performance and query optimization</a></strong>
+<br/>
+<img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-merge-16.svg" width="14" /> Merged
+<br/>
+<sub>#109 · OBLIQ-in/obliq-in-app · Backend</sub>
+</td>
+</tr>
+</table>
 
 ---
 
