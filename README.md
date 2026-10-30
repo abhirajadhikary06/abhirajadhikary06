@@ -1,46 +1,49 @@
 # Abhiraj Adhikary
 
-**Software Engineer · Backend Systems · Data Engineering · Distributed Systems**
+Software Engineer focused on **Backend Engineering, Data Engineering, and Distributed Systems**. I build complete data platforms and backend systems, with an interest in the engineering problems behind scalability, reliability, performance, and data-intensive applications.
 
-I’m a software engineer focused on **backend systems, data engineering, and distributed systems**. I build complete data platforms and work on performance, reliability, and scalable system design.
+Currently engineering at **OBLIQ-in**, working on backend infrastructure, database performance, and platform reliability. Previously a Backend Engineering Intern at **Springer Capital**.
 
-Currently engineering at **OBLIQ**, building backend capabilities and improving application performance. Previously, I worked as a Backend Intern at **Springer Capital**, contributing to backend migration and data extraction systems.
+---
 
 ## Experience
 
-**OBLIQ-in — Engineer**  
+**Software Engineer — OBLIQ-in**  
 *2026 – Present*
 
-- Building backend capabilities for secure client document sharing, audit workflows, and firm workspace synchronization.
-- Improved workspace loading from **~11s to ~98ms** by eliminating N+1 queries and optimizing database access.
-- Added **29 database indexes**, including covering and partial indexes, to improve query performance.
-- Tuned PostgreSQL connection pooling, reducing average latency by **52.26%**.
-- Improved CI performance through dynamic test concurrency, reducing test runtime by **49%**.
-- Strengthened reliability through database health checks, automated migrations, and dependency security updates.
+- Building core platform capabilities for secure client document sharing, audit workflow automation, and firm workspace synchronization.
+- Improved workspace loading from **~11s to ~98ms (112× faster)** through database indexing and N+1 query elimination.
+- Reduced average database latency by **52.26%** through connection-pool optimization.
+- Reduced CI test execution time by **49%** using dynamic test concurrency; improved test infrastructure, database health checks, and dependency security.
 
-**Selected engineering work:** [Database performance optimization — PR #109](https://github.com/OBLIQ-in/obliq-in-app/pull/109) · Merged
+**Backend Engineering Intern — Springer Capital**  
+*Jul 2025 – Oct 2025*
 
-**Springer Capital — Backend Engineering Intern**  
-*July 2025 – October 2025*
+- Led the migration of Salesforce extraction components from **Flask/SQLite to Django/PostgreSQL**.
+- Worked on backend API validation and debugging using Swagger/OpenAPI, Salesforce connectivity, and source-extraction pipelines.
+- Supported Azure deployment, configuration, and release workflows in an Agile environment.
 
-- Led the migration of Salesforce extraction components from Flask/SQLite to Django/PostgreSQL.
-- Built and validated backend APIs using Swagger/OpenAPI.
-- Worked on Salesforce connectivity, source extraction pipelines, and Azure deployment workflows.
-- Contributed to testing, debugging, and release coordination in an Agile environment.
+---
 
-## Open Source Contributions
+## Selected Projects
 
-I contribute to backend and infrastructure projects, focusing on correctness, reproducible bugs, regression tests, and performance.
+| Project | Overview |
+|---|---|
+| **[Real-Time Search Pipeline](https://github.com/abhirajadhikary06/realtime-search-pipeline)** | Kafka and Flink-based streaming pipeline with Elasticsearch for indexing and Kibana for search observability. |
+| **[CDC Streaming Pipeline](https://github.com/abhirajadhikary06/cdc-streaming-pipeline)** | PostgreSQL CDC with Debezium and Kafka, processed through Spark Structured Streaming and Delta Lake. |
+| **[GTFS Real-Time Streaming](https://github.com/abhirajadhikary06/gtfs-realtime-streaming-pipeline)** | Event-time streaming architecture for transit data using Spark Structured Streaming and a Kappa-style design. |
+| **[Payment Gateway Data Platform](https://github.com/abhirajadhikary06/payment-gateway-databricks-pipeline)** | Data engineering pipeline exploring payment data processing and lakehouse workflows with Databricks. |
 
-### [aio-libs/aiocache](https://github.com/aio-libs/aiocache)
+---
 
-**[Fix `cached_stampede` locking when `lease` is `None`](https://github.com/aio-libs/aiocache/pull/1095)**  
-<sub>Python · Asyncio · Caching · Regression Testing · Open PR</sub>
+## Open Source & Engineering Contributions
 
-- Fixed the behavior of `cached_stampede` when locking is disabled with `lease=None` or `lease=0`.
-- Bypassed `RedLock` in the disabled-locking path while preserving cache-write and skip-cache behavior.
-- Added parametrized async regression tests covering concurrent execution and keyword argument forwarding.
-- Validated against all **58 tests** in `tests/ut/test_decorators.py`.
+| Repository / PR | Contribution | Status |
+|---|---|---|
+| **[aio-libs/aiocache #1095](https://github.com/aio-libs/aiocache/pull/1095)** | Fixed `cached_stampede` behavior when `lease=None` or `0`, bypassing RedLock as documented. Added regression tests for concurrent execution and keyword forwarding; validated against 58 decorator tests. | **Open** |
+| **[OBLIQ-in #109](https://github.com/OBLIQ-in/obliq-in-app/pull/109)** | Optimized database indexes and workspace queries, eliminated N+1 loading, and improved PostgreSQL connection pooling for better application performance. | **Merged** |
+
+---
 
 ## Technical Stack
 
@@ -49,7 +52,7 @@ I contribute to backend and infrastructure projects, focusing on correctness, re
 <td width="50%" valign="top">
 
 **Languages**
-
+  
 Python · Go · C · R · Bash
 
 **Backend Engineering**
@@ -62,7 +65,7 @@ PostgreSQL · MySQL · SQL Server · SQLite · DuckDB · Cassandra · HBase
 
 **Distributed & Streaming Systems**
 
-Apache Kafka · Apache Spark · PySpark · Apache Flink · Spark Structured Streaming
+Kafka · Apache Spark · PySpark · Flink · Spark Structured Streaming
 
 </td>
 <td width="50%" valign="top">
@@ -79,7 +82,7 @@ AWS · Azure · Docker · GitHub Actions · Cloudflare · Render
 
 Git · GitHub · Postman · Jupyter · Supabase · Metabase
 
-**Analytics & ML**
+**Analytics & Machine Learning**
 
 Pandas · NumPy · SciPy · Scikit-learn · TensorFlow
 
@@ -87,10 +90,14 @@ Pandas · NumPy · SciPy · Scikit-learn · TensorFlow
 </tr>
 </table>
 
+---
+
 ## Research Interests
 
-Distributed Systems · Serverless Computing · Database Systems · Streaming Architectures · Cloud Engineering · Performance Evaluation
+Distributed Systems · Serverless Computing · Database Systems · Streaming Architectures · Cloud Engineering · Performance Evaluation and Reproduction of Research Papers
+
+---
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/abhirajadhikary06) · [GitHub](https://github.com/abhirajadhikary06) · [LeetCode](https://leetcode.com/u/0vz9vQHr2y/) · [DEV](https://dev.to/abhirajadhikary06) · [HackerRank](https://www.hackerrank.com/profile/abhirajadhikary1)
+[LinkedIn](https://www.linkedin.com/in/abhirajadhikary06) · [GitHub](https://github.com/abhirajadhikary06) · [LeetCode](https://leetcode.com/u/0vz9vQHr2y/) · [HackerRank](https://www.hackerrank.com/profile/abhirajadhikary1) · [Devfolio](https://devfolio.co/@abhirajadhikary) · [DEV Community](https://dev.to/abhirajadhikary06)
