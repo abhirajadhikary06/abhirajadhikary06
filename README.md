@@ -2,55 +2,95 @@
 
 **Software Engineer · Backend Systems · Data Engineering · Distributed Systems**
 
-I am a software engineer interested in building reliable backend systems, data-intensive applications, and distributed infrastructure. My work focuses on database performance, streaming architectures, system reliability, and scalable data platforms.
+I’m a software engineer focused on **backend systems, data engineering, and distributed systems**. I build complete data platforms and work on performance, reliability, and scalable system design.
 
-Currently, I work as an **Engineer at OBLIQ-in**, building core product and platform capabilities across secure document sharing, audit workflows, and backend infrastructure. Previously, I was a **Backend Engineering Intern at Springer Capital**, where I worked on backend migration, API development, and Salesforce data integrations.
+Currently engineering at **OBLIQ**, building backend capabilities and improving application performance. Previously, I worked as a Backend Intern at **Springer Capital**, contributing to backend migration and data extraction systems.
 
-At OBLIQ-in, I reduced workspace loading time by **112× (~11s to ~98ms)** through database indexing and query optimization, reduced average database latency by **52.26%** through connection-pool tuning, and improved CI test execution time by **49%** through dynamic concurrency optimization.
+## Experience
 
-I also enjoy contributing to open-source projects, particularly by investigating reproducible bugs, improving test coverage, and addressing correctness and performance issues.
+**OBLIQ-in — Engineer**  
+*2026 – Present*
 
-## Engineering Portfolio
+- Building backend capabilities for secure client document sharing, audit workflows, and firm workspace synchronization.
+- Improved workspace loading from **~11s to ~98ms** by eliminating N+1 queries and optimizing database access.
+- Added **29 database indexes**, including covering and partial indexes, to improve query performance.
+- Tuned PostgreSQL connection pooling, reducing average latency by **52.26%**.
+- Improved CI performance through dynamic test concurrency, reducing test runtime by **49%**.
+- Strengthened reliability through database health checks, automated migrations, and dependency security updates.
 
-Selected projects and implementations across data infrastructure, backend engineering, and distributed systems.
+**Selected engineering work:** [Database performance optimization — PR #109](https://github.com/OBLIQ-in/obliq-in-app/pull/109) · Merged
 
-- [Realtime Search Pipeline](https://github.com/abhirajadhikary06/realtime-search-pipeline) — Kafka, Flink, Elasticsearch.
-- [CDC Streaming Pipeline](https://github.com/abhirajadhikary06/cdc-streaming-pipeline) — PostgreSQL, Debezium, Kafka, Spark Structured Streaming, Delta Lake.
-- [GTFS Realtime Streaming Pipeline](https://github.com/abhirajadhikary06/gtfs-realtime-streaming-pipeline) — Event-time processing and Kappa architecture.
-- [Payment Gateway Databricks Pipeline](https://github.com/abhirajadhikary06/payment-gateway-databricks-pipeline) — Data processing and lakehouse workflows.
+**Springer Capital — Backend Engineering Intern**  
+*July 2025 – October 2025*
+
+- Led the migration of Salesforce extraction components from Flask/SQLite to Django/PostgreSQL.
+- Built and validated backend APIs using Swagger/OpenAPI.
+- Worked on Salesforce connectivity, source extraction pipelines, and Azure deployment workflows.
+- Contributed to testing, debugging, and release coordination in an Agile environment.
 
 ## Open Source Contributions
 
-I contribute to open-source software by investigating real-world issues, reproducing unexpected behaviour, and submitting tested fixes. My focus is on backend infrastructure, Python libraries, caching systems, databases, and data engineering tools.
+I contribute to backend and infrastructure projects, focusing on correctness, reproducible bugs, regression tests, and performance.
 
-| Project | Contribution | Reference |
-|---|---|---|
-| aiocache | Bug fix and associated regression coverage | [PR #1095](https://github.com/aio-libs/aiocache/pull/1095) |
+### [aio-libs/aiocache](https://github.com/aio-libs/aiocache)
 
-[All Pull Requests](https://github.com/pulls?q=is%3Apr+author%3Aabhirajadhikary06) · [All Issues](https://github.com/issues?q=is%3Aissue+author%3Aabhirajadhikary06)
+**[Fix `cached_stampede` locking when `lease` is `None`](https://github.com/aio-libs/aiocache/pull/1095)**  
+<sub>Python · Asyncio · Caching · Regression Testing · Open PR</sub>
+
+- Fixed the behavior of `cached_stampede` when locking is disabled with `lease=None` or `lease=0`.
+- Bypassed `RedLock` in the disabled-locking path while preserving cache-write and skip-cache behavior.
+- Added parametrized async regression tests covering concurrent execution and keyword argument forwarding.
+- Validated against all **58 tests** in `tests/ut/test_decorators.py`.
 
 ## Technical Stack
 
-**Languages:** Python, Go, C, R, Bash.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Backend:** Django, Flask, FastAPI, Tornado, Node.js.
+**Languages**
 
-**Data Engineering:** Apache Spark, PySpark, Kafka, Flink, Airflow, dbt, Delta Lake, Databricks, Snowflake.
+Python · Go · C · R · Bash
 
-**Databases:** PostgreSQL, MySQL, SQL Server, SQLite, DuckDB, Neon, Cassandra, HBase.
+**Backend Engineering**
 
-**Big Data:** Hadoop, HDFS, YARN, Hive, Pig, Flume.
+Django · Flask · FastAPI · Tornado
 
-**Data Science:** NumPy, Pandas, SciPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn.
+**Databases**
 
-**Cloud & Infrastructure:** AWS, Azure, Cloudflare, Docker, Render, Railway, Vercel.
+PostgreSQL · MySQL · SQL Server · SQLite · DuckDB · Cassandra · HBase
 
-**Tools:** Git, GitHub, Postman, Supabase, Jupyter, Metabase, Streamlit.
+**Distributed & Streaming Systems**
+
+Apache Kafka · Apache Spark · PySpark · Apache Flink · Spark Structured Streaming
+
+</td>
+<td width="50%" valign="top">
+
+**Data Engineering**
+
+Airflow · dbt · Delta Lake · Databricks · Snowflake · Hadoop · Hive · HDFS
+
+**Cloud & Infrastructure**
+
+AWS · Azure · Docker · GitHub Actions · Cloudflare · Render
+
+**Developer Tools**
+
+Git · GitHub · Postman · Jupyter · Supabase · Metabase
+
+**Analytics & ML**
+
+Pandas · NumPy · SciPy · Scikit-learn · TensorFlow
+
+</td>
+</tr>
+</table>
 
 ## Research Interests
 
-Distributed systems, serverless computing, database systems, streaming architectures, cloud engineering, and performance evaluation through research reproduction.
+Distributed Systems · Serverless Computing · Database Systems · Streaming Architectures · Cloud Engineering · Performance Evaluation
 
 ## Connect
 
-[GitHub](https://github.com/abhirajadhikary06) · [LinkedIn](https://www.linkedin.com/in/abhirajadhikary06) · [LeetCode](https://leetcode.com/u/0vz9vQHr2y/) · [HackerRank](https://www.hackerrank.com/profile/abhirajadhikary1) · [Devfolio](https://devfolio.co/@abhirajadhikary) · [DEV Community](https://dev.to/abhirajadhikary06)
+[LinkedIn](https://www.linkedin.com/in/abhirajadhikary06) · [GitHub](https://github.com/abhirajadhikary06) · [LeetCode](https://leetcode.com/u/0vz9vQHr2y/) · [DEV](https://dev.to/abhirajadhikary06) · [HackerRank](https://www.hackerrank.com/profile/abhirajadhikary1)
