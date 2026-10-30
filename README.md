@@ -39,31 +39,45 @@ Currently engineering at **OBLIQ-in**, working on backend infrastructure, databa
 ## Open Source & Engineering Contributions
 <table>
 <tr>
-<td>
-<a href="https://github.com/aio-libs/aiocache/pull/1095">
-<img src="https://github.com/aio-libs.png?size=40" width="28" align="left" />
+<td width="90" align="center" valign="middle">
+<a href="https://github.com/aio-libs/aiocache">
+<img src="https://github.com/aio-libs.png?size=64" width="36" alt="aio-libs"/>
 </a>
 </td>
-<td>
+<td valign="middle">
 <strong><a href="https://github.com/aio-libs/aiocache/pull/1095">Fix cached_stampede locking when lease is None</a></strong>
 <br/>
-<img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" width="14" /> Open
+<img src="https://img.shields.io/badge/⑂-Open-238636?style=flat-square" height="20" alt="Open PR"/>
 <br/>
-<sub>#1095 · aio-libs/aiocache · Python</sub>
+<sub><strong>#1095</strong> · <a href="https://github.com/aio-libs/aiocache">aio-libs/aiocache</a> · Python</sub>
 </td>
 </tr>
 <tr>
-<td>
-<a href="https://github.com/OBLIQ-in/obliq-in-app/pull/109">
-<img src="https://github.com/OBLIQ-in.png?size=40" width="28" align="left" />
+<td width="90" align="center" valign="middle">
+<a href="https://github.com/OBLIQ-in">
+<img src="https://github.com/OBLIQ-in.png?size=64" width="36" alt="OBLIQ-in"/>
 </a>
 </td>
-<td>
+<td valign="middle">
 <strong><a href="https://github.com/OBLIQ-in/obliq-in-app/pull/109">Database performance and query optimization</a></strong>
 <br/>
-<img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-merge-16.svg" width="14" /> Merged
+<img src="https://img.shields.io/badge/⑂-Merged-8957e5?style=flat-square" height="20" alt="Merged PR"/>
 <br/>
-<sub>#109 · OBLIQ-in/obliq-in-app · Backend</sub>
+<sub><strong>#109</strong> · <a href="https://github.com/OBLIQ-in/obliq-in-app">OBLIQ-in/obliq-in-app</a> · Backend</sub>
+</td>
+</tr>
+<tr>
+<td width="90" align="center" valign="middle">
+<a href="https://github.com/manta-plan/manta">
+<img src="https://github.com/manta-plan.png?size=64" width="36" alt="manta-plan"/>
+</a>
+</td>
+<td valign="middle">
+<strong><a href="https://github.com/manta-plan/manta/pull/226">feat(ui): add documentation link to header (#4)</a></strong>
+<br/>
+<img src="https://img.shields.io/badge/⑂-Open-238636?style=flat-square" height="20" alt="Open PR"/>
+<br/>
+<sub><strong>#226</strong> · <a href="https://github.com/manta-plan/manta">manta-plan/manta</a> · UI Feature</sub>
 </td>
 </tr>
 </table>
