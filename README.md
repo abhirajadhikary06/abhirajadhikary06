@@ -38,6 +38,7 @@ Currently engineering at **OBLIQ-in**, working on backend infrastructure, databa
 
 ## Open Source & Engineering Contributions
 
+
 <table>
 <tr>
 <td width="90" align="center" valign="middle">
@@ -48,7 +49,8 @@ Currently engineering at **OBLIQ-in**, working on backend infrastructure, databa
 <td valign="middle">
 <strong><a href="https://github.com/aio-libs/aiocache/pull/1095">Fix cached_stampede locking when lease is None</a></strong>
 <br/>
-<img src="https://api.iconify.design/octicon:git-pull-request-16.svg?color=%231a7f37" height="16" alt="Open"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none" style="vertical-align:middle"><path d="M5 3.5H3.5A2.5 2.5 0 0 0 1 6v4a2.5 2.5 0 0 0 2.5 2.5H5M11 3.5h1.5A2.5 2.5 0 0 1 15 6v4a2.5 2.5 0 0 1-2.5 2.5H11M5 8h6" stroke="#1a7f37" stroke-width="1.5" stroke-linecap="round"/></svg>
+<span>Open</span>
 <br/>
 <sub><strong>#1095</strong> · <a href="https://github.com/aio-libs/aiocache">aio-libs/aiocache</a> · Python</sub>
 </td>
@@ -62,7 +64,8 @@ Currently engineering at **OBLIQ-in**, working on backend infrastructure, databa
 <td valign="middle">
 <strong><a href="https://github.com/OBLIQ-in/obliq-in-app/pull/109">perf: optimize database indexes, fix N+1 query, and improve connection pooling</a></strong>
 <br/>
-<img src="https://api.iconify.design/octicon:git-merge-16.svg?color=%238250df" height="16" alt="Merged"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none" style="vertical-align:middle"><path d="M3 2.5v11M3 8h4a3 3 0 0 0 3-3V2M7 4l3-3 3 3" stroke="#8250df" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+<span>Merged</span>
 <br/>
 <sub><strong>#109</strong> · <a href="https://github.com/OBLIQ-in/obliq-in-app">OBLIQ-in/obliq-in-app</a> · Backend</sub>
 </td>
@@ -76,12 +79,14 @@ Currently engineering at **OBLIQ-in**, working on backend infrastructure, databa
 <td valign="middle">
 <strong><a href="https://github.com/manta-plan/manta/pull/226">feat(ui): add documentation link to header (#4)</a></strong>
 <br/>
-<img src="https://api.iconify.design/octicon:git-pull-request-16.svg?color=%231a7f37" height="16" alt="Open"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none" style="vertical-align:middle"><path d="M5 3.5H3.5A2.5 2.5 0 0 0 1 6v4a2.5 2.5 0 0 0 2.5 2.5H5M11 3.5h1.5A2.5 2.5 0 0 1 15 6v4a2.5 2.5 0 0 1-2.5 2.5H11M5 8h6" stroke="#1a7f37" stroke-width="1.5" stroke-linecap="round"/></svg>
+<span>Open</span>
 <br/>
 <sub><strong>#226</strong> · <a href="https://github.com/manta-plan/manta">manta-plan/manta</a> · UI Feature</sub>
 </td>
 </tr>
 </table>
+
 
 
 ---
