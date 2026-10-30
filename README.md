@@ -37,37 +37,10 @@ Currently engineering at **OBLIQ-in**, working on backend infrastructure, databa
 ---
 
 ## Open Source & Engineering Contributions
-<table width="100%">
-  <tr>
-    <td width="28%" valign="top">
-      <strong>aio-libs / aiocache</strong><br/>
-      <sub>Open Source · Python</sub><br/><br/>
-      <a href="https://github.com/aio-libs/aiocache/pull/1095">PR #1095 ↗</a><br/>
-      <sub>OPEN</sub>
-    </td>
-    <td valign="top">
-      <strong>Fix cached_stampede locking when lease is None</strong><br/><br/>
-      Corrected the mismatch between documented and actual locking behavior by bypassing RedLock when <code>lease=None</code> or <code>0</code>. Added regression coverage for concurrent execution and keyword forwarding.<br/><br/>
-      <sub>Validation: 58 decorator tests passed</sub>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2"><hr/></td>
-  </tr>
-  <tr>
-    <td width="28%" valign="top">
-      <strong>OBLIQ-in / obliq-in-app</strong><br/>
-      <sub>Product Engineering · Backend</sub><br/><br/>
-      <a href="https://github.com/OBLIQ-in/obliq-in-app/pull/109">PR #109 ↗</a><br/>
-      <sub>MERGED</sub>
-    </td>
-    <td valign="top">
-      <strong>Database performance and query optimization</strong><br/><br/>
-      Added 29 database indexes, eliminated N+1 workspace loading through grouped aggregation, and optimized PostgreSQL connection pooling.<br/><br/>
-      <sub>Impact: ~11s → ~98ms workspace loading · 52.26% lower average latency</sub>
-    </td>
-  </tr>
-</table>
+| Repository / PR | Contribution | Status |
+|---|---|---|
+| **[aio-libs/aiocache #1095](https://github.com/aio-libs/aiocache/pull/1095)** | Fixed `cached_stampede` behavior when `lease=None` or `0`, bypassing RedLock as documented. Added regression tests for concurrent execution and keyword forwarding; validated against 58 decorator tests. | **Open** |
+| **[OBLIQ-in #109](https://github.com/OBLIQ-in/obliq-in-app/pull/109)** | Optimized database indexes and workspace queries, eliminated N+1 loading, and improved PostgreSQL connection pooling for better application performance. | **Merged** |
 
 ---
 
