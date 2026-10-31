@@ -95,6 +95,20 @@ Currently engineering at **OBLIQ-in**, working on backend infrastructure, databa
 <sub><strong>#627</strong> · <a href="https://github.com/BlitzKraft/saythanks.io">BlitzKraft/saythanks.io</a> · Backend</sub>
 </td>
 </tr>
+<tr>
+<td width="90" align="center" valign="middle">
+<a href="https://github.com/BlitzKraft">
+<img src="https://github.com/BlitzKraft.png?size=64" width="36" alt="BlitzKraft"/>
+</a>
+</td>
+<td valign="middle">
+<strong><a href="https://github.com/BlitzKraft/saythanks.io/pull/626">Fix #624: Implement client-side image file size validation and compression to prevent 504 gateway timeouts</a></strong>
+<br/>
+<img src="https://img.shields.io/badge/⑂-Open-238636?style=flat-square" height="20" alt="Open PR"/>
+<br/>
+<sub><strong>#626</strong> · <a href="https://github.com/BlitzKraft/saythanks.io">BlitzKraft/saythanks.io</a> · Backend</sub>
+</td>
+</tr>
 </table>
 
 ---
