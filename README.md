@@ -165,7 +165,7 @@ Distributed Systems · Serverless Computing · Database Systems · Streaming Arc
 <tr>
 <td align="center">
 <a href="https://zenodo.org/records/19365667">
-<img src="YOUR_PAPER_PREVIEW_IMAGE_URL" width="100" alt="Paper preview"/>
+<img src="https://zenodo.org/records/19365667/files/preview.png" width="110" alt="Paper preview"/>
 </a>
 </td>
 <td><a href="https://zenodo.org/records/19365667">Paper title</a></td>
