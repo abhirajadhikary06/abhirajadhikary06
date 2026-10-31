@@ -155,7 +155,7 @@ Distributed Systems · Serverless Computing · Database Systems · Streaming Arc
 <table>
 <thead>
 <tr>
-<th>Preview</th>
+<th align="center">Preview</th>
 <th>Paper Name</th>
 <th>Published Date</th>
 <th>Published Platform</th>
@@ -163,14 +163,18 @@ Distributed Systems · Serverless Computing · Database Systems · Streaming Arc
 </thead>
 <tbody>
 <tr>
-<td align="center">
+<td align="center" width="150">
 <a href="https://zenodo.org/records/19365667">
-<img src="https://zenodo.org/records/19365667/files/preview.png" width="110" alt="Paper preview"/>
+<img src="https://image.thum.io/get/width/400/crop/600/noanimate/https://zenodo.org/records/19365667" width="120" alt="Research paper preview"/>
 </a>
 </td>
-<td><a href="https://zenodo.org/records/19365667">Paper title</a></td>
-<td>Publication date</td>
-<td><a href="https://zenodo.org/records/19365667">Zenodo</a></td>
+<td>
+<a href="https://zenodo.org/records/19365667">View Research Paper</a>
+</td>
+<td>See publication record</td>
+<td>
+<a href="https://zenodo.org/records/19365667">Zenodo</a>
+</td>
 </tr>
 </tbody>
 </table>
