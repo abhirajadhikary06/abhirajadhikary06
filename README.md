@@ -155,26 +155,16 @@ Distributed Systems · Serverless Computing · Database Systems · Streaming Arc
 <table>
 <thead>
 <tr>
-<th align="center">Preview</th>
-<th>Paper Name</th>
-<th>Published Date</th>
-<th>Published Platform</th>
+<th>Research Paper</th>
+<th>Publication Date</th>
+<th>Publication Platform</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center" width="150">
-<a href="https://zenodo.org/records/19365667">
-<img src="https://image.thum.io/get/width/400/crop/600/noanimate/https://zenodo.org/records/19365667" width="120" alt="Research paper preview"/>
-</a>
-</td>
-<td>
-<a href="https://zenodo.org/records/19365667">View Research Paper</a>
-</td>
-<td>See publication record</td>
-<td>
-<a href="https://zenodo.org/records/19365667">Zenodo</a>
-</td>
+<td><a href="https://zenodo.org/records/19365667"># llmsays: One-Line LLM Inference with Automatic Prompt-Tier Routing and Multi-Provider Failover</a></td>
+<td>1 April 2026</td>
+<td><a href="https://zenodo.org/records/19365667">Zenodo</a></td>
 </tr>
 </tbody>
 </table>
