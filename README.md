@@ -95,9 +95,21 @@ Currently engineering at **OBLIQ-in**, working on backend infrastructure, databa
 <sub><strong>#66</strong> · <a href="https://github.com/questdb/documentation">questdb/documentation</a> · Documentation</sub>
 </td>
 </tr>
+<tr>
+<td width="90" align="center" valign="middle">
+<a href="https://github.com/BlitzKraft/saythanks.io">
+<img src="https://github.com/BlitzKraft.png?size=64" width="36" alt="BlitzKraft"/>
+</a>
+</td>
+<td valign="middle">
+<strong><a href="https://github.com/BlitzKraft/saythanks.io/issues/624">Prevent 504 Gateway Time-out by validating image file size before upload</a></strong>
+<br/>
+<img src="https://img.shields.io/badge/⑂-Open-238636?style=flat-square" height="20" alt="Open Issue"/>
+<br/>
+<sub><strong>#624</strong> · <a href="https://github.com/BlitzKraft/saythanks.io">BlitzKraft/saythanks.io</a> · Backend</sub>
+</td>
+</tr>
 </table>
-
-
 
 ---
 
