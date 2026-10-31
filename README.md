@@ -152,6 +152,29 @@ Pandas · NumPy · SciPy · Scikit-learn · TensorFlow
 
 Distributed Systems · Serverless Computing · Database Systems · Streaming Architectures · Cloud Engineering · Performance Evaluation and Reproduction of Research Papers
 
+<table>
+<thead>
+<tr>
+<th>Preview</th>
+<th>Paper Name</th>
+<th>Published Date</th>
+<th>Published Platform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">
+<a href="https://zenodo.org/records/19365667">
+<img src="YOUR_PAPER_PREVIEW_IMAGE_URL" width="100" alt="Paper preview"/>
+</a>
+</td>
+<td><a href="https://zenodo.org/records/19365667">Paper title</a></td>
+<td>Publication date</td>
+<td><a href="https://zenodo.org/records/19365667">Zenodo</a></td>
+</tr>
+</tbody>
+</table>
+
 ---
 
 ## Connect
