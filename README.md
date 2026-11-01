@@ -35,6 +35,7 @@ Currently engineering at **OBLIQ-in**, working on backend infrastructure, databa
 | **[Weather Databricks Lakehouse](https://github.com/abhirajadhikary06/weather-databrick-lakehouse-pipeline)** | Databricks-based lakehouse pipeline for ingesting and processing weather data through structured data engineering workflows. |
 | **[Instacart Lakehouse Pipeline](https://github.com/abhirajadhikary06/instacart-lakehouse-pipeline)** | End-to-end lakehouse pipeline using dlt, MinIO, Spark, Delta Lake, PostgreSQL, and dbt to process Instacart datasets across Bronze, Silver, and Gold layers. |
 | **[Hallbook](https://github.com/abhirajadhikary06/hallbook)** | Web-based platform with a Python backend and PostgreSQL database. [Live Application](https://hallbook-e0u1.onrender.com). |
+| **[attend](https://github.com/abhirajadhikary06/attend)** | Offline-first Windows desktop application for real-time facial recognition attendance management using InsightFace, ArcFace, FAISS, OpenCV, and SQLite. [Live Website](https://attend-desktop.netlify.app). |
 
 ---
 
