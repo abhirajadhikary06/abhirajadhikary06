@@ -186,5 +186,9 @@ Distributed Systems · Serverless Computing · Database Systems · Streaming Arc
 ---
 
 ## Connect
-
-[LinkedIn](https://www.linkedin.com/in/abhirajadhikary06) · [GitHub](https://github.com/abhirajadhikary06) · [LeetCode](https://leetcode.com/u/0vz9vQHr2y/) · [HackerRank](https://www.hackerrank.com/profile/abhirajadhikary1) · [Devfolio](https://devfolio.co/@abhirajadhikary) · [DEV Community](https://dev.to/abhirajadhikary06)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhirajadhikary06)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhirajadhikary06)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/0vz9vQHr2y/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/abhirajadhikary1)
+[![Devfolio](https://img.shields.io/badge/Devfolio-3770FF?style=for-the-badge&logo=devfolio&logoColor=white)](https://devfolio.co/@abhirajadhikary)
+[![DEV Community](https://img.shields.io/badge/DEV_Community-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/abhirajadhikary06)
