@@ -32,7 +32,9 @@ Currently engineering at **OBLIQ-in**, working on backend infrastructure, databa
 | **[Real-Time Search Pipeline](https://github.com/abhirajadhikary06/realtime-search-pipeline)** | Kafka and Flink-based streaming pipeline with Elasticsearch for indexing and Kibana for search observability. |
 | **[CDC Streaming Pipeline](https://github.com/abhirajadhikary06/cdc-streaming-pipeline)** | PostgreSQL CDC with Debezium and Kafka, processed through Spark Structured Streaming and Delta Lake. |
 | **[GTFS Real-Time Streaming](https://github.com/abhirajadhikary06/gtfs-realtime-streaming-pipeline)** | Event-time streaming architecture for transit data using Spark Structured Streaming and a Kappa-style design. |
-| **[Payment Gateway Data Platform](https://github.com/abhirajadhikary06/payment-gateway-databricks-pipeline)** | Data engineering pipeline exploring payment data processing and lakehouse workflows with Databricks. |
+| **[Weather Databricks Lakehouse](https://github.com/abhirajadhikary06/weather-databrick-lakehouse-pipeline)** | Databricks-based lakehouse pipeline for ingesting and processing weather data through structured data engineering workflows. |
+| **[Instacart Lakehouse Pipeline](https://github.com/abhirajadhikary06/instacart-lakehouse-pipeline)** | End-to-end lakehouse pipeline using dlt, MinIO, Spark, Delta Lake, PostgreSQL, and dbt to process Instacart datasets across Bronze, Silver, and Gold layers. |
+| **[Hallbook](https://github.com/abhirajadhikary06/hallbook)** | Web-based platform with a Python backend and PostgreSQL database. [Live Application](https://hallbook-e0u1.onrender.com). |
 
 ---
 
