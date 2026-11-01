@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="1024" height="339" alt="image" src="https://github.com/user-attachments/assets/68a63a57-4995-41b5-8f60-41d55e87d175" />
+</p>
+
+
 # Abhiraj Adhikary
 
 Software Engineer focused on **Backend Engineering, Data Engineering, and Distributed Systems**. I build complete data platforms and backend systems, with an interest in the engineering problems behind scalability, reliability, performance, and data-intensive applications.
