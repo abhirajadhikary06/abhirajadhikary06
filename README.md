@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="869" height="287" alt="image" src="https://github.com/user-attachments/assets/af0f0680-76a8-404a-a888-8e33defb6c7f" />
+  <img width="869" height="287" alt="wmremove-transformed-removebg-preview" src="https://github.com/user-attachments/assets/e1d51757-a67b-496d-ae66-971b81c66580" />
+
 </p>
 
 
