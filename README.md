@@ -119,8 +119,8 @@ Currently engineering at **OBLIQ-in**, working on backend infrastructure, databa
 </tr>
 <tr>
   <td width="90" align="center" valign="middle">
-    <a href="https://github.com/abhirajadhikary06">
-      <img src="https://github.com/abhirajadhikary06.png?size=64" width="36" alt="abhirajadhikary06"/>
+    <a href="https://github.com/AlgenAI">
+      <img src="https://github.com/AlgenAI.png?size=64" width="36" alt="AlgenAI"/>
     </a>
   </td>
   <td valign="middle">
