@@ -117,6 +117,20 @@ Currently engineering at **OBLIQ-in**, working on backend infrastructure, databa
 <sub><strong>#626</strong> · <a href="https://github.com/BlitzKraft/saythanks.io">BlitzKraft/saythanks.io</a> · Backend</sub>
 </td>
 </tr>
+<tr>
+  <td width="90" align="center" valign="middle">
+    <a href="https://github.com/abhirajadhikary06">
+      <img src="https://github.com/abhirajadhikary06.png?size=64" width="36" alt="abhirajadhikary06"/>
+    </a>
+  </td>
+  <td valign="middle">
+    <strong><a href="https://github.com/AlgenAI/algen-agent-runtime/pull/107">CI: Add offline Lychee link checker workflow and fix documentation link</a></strong>
+    <br/>
+    <img src="https://img.shields.io/badge/⑂-Open-238636?style=flat-square" height="20" alt="Open PR"/>
+    <br/>
+    <sub><strong>#107</strong> · <a href="https://github.com/AlgenAI/algen-agent-runtime">AlgenAI/algen-agent-runtime</a> · CI / DevOps</sub>
+  </td>
+</tr>
 </table>
 
 ---
