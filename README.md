@@ -1,5 +1,5 @@
 <!-- DEVTOWN-BANNER:START -->
-[![My DevTown](https://git-devtown.netlify.app/api/banners/abhirajadhikary06.png?mode=day&v=821)](https://git-devtown.netlify.app/@abhirajadhikary06)
+<a href="https://git-devtown.netlify.app/@abhirajadhikary06"><img src="https://git-devtown.netlify.app/api/banners/abhirajadhikary06.png?mode=day&v=1021" alt="My DevTown" width="100%" /></a>
 <!-- DEVTOWN-BANNER:END -->
 
 
