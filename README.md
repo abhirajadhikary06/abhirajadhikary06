@@ -1,6 +1,6 @@
-<p align="center">
-  <img width="1734" height="574" alt="image" src="https://github.com/user-attachments/assets/ee62db1d-c1c7-408d-9aea-ec8a3607be18" />
-</p>
+<!-- DEVTOWN-BANNER:START -->
+[![My DevTown](https://git-devtown.netlify.app/api/banners/abhirajadhikary06.png?mode=day&v=821)](https://git-devtown.netlify.app/@abhirajadhikary06)
+<!-- DEVTOWN-BANNER:END -->
 
 
 # Abhiraj Adhikary
