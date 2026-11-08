@@ -17,9 +17,9 @@ Currently engineering at **OBLIQ-in**, working on backend infrastructure, databa
 *2026 – Present*
 
 - Building core platform capabilities for secure client document sharing, audit workflow automation, and firm workspace synchronization.
-- Improved workspace loading from **~11s to ~98ms (112× faster)** through database indexing and N+1 query elimination.
-- Reduced average database latency by **52.26%** through connection-pool optimization.
-- Reduced CI test execution time by **49%** using dynamic test concurrency; improved test infrastructure, database health checks, and dependency security.
+- Optimized PostgreSQL performance through **29 schema and covering indexes**, N+1 query elimination, and connection-pool tuning—reducing workspace load time from **~11s to ~98ms (112× faster)** and database latency by **52.26%**.
+- Engineered end-to-end CI/CD infrastructure with GitHub Actions, automated database migrations, quality gates, security checks, and dynamic test concurrency—reducing test execution time by **49%**.
+- Implemented production release and packaging workflows, including **PyPI publishing with OIDC-based authentication**, Hatch-VCS versioning, pre-commit automation, and **distroless Docker builds with GHCR releases**.
 
 **Backend Engineering Intern — Springer Capital**  
 *Jul 2025 – Oct 2025*
