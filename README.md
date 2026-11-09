@@ -77,19 +77,18 @@ Currently engineering at **OBLIQ-in**, working on backend infrastructure, databa
 </tr>
 <tr>
 <td width="90" align="center" valign="middle">
-<a href="https://github.com/manta-plan/manta">
-<img src="https://github.com/manta-plan.png?size=64" width="36" alt="manta-plan"/>
+<a href="https://github.com/oss-slu/oss_cicd_automation">
+<img src="https://github.com/oss-slu.png?size=64" width="36" alt="oss-slu"/>
 </a>
 </td>
 <td valign="middle">
-<strong><a href="https://github.com/manta-plan/manta/pull/226">feat(ui): add documentation link to header (#4)</a></strong>
+<strong><a href="https://github.com/oss-slu/oss_cicd_automation/pull/136">feat(ci): add flexible multi-language reusable linting workflow (#131)</a></strong>
 <br/>
 <img src="https://img.shields.io/badge/⑂-Open-238636?style=flat-square" height="20" alt="Open PR"/>
 <br/>
-<sub><strong>#226</strong> · <a href="https://github.com/manta-plan/manta">manta-plan/manta</a> · UI Feature</sub>
+<sub><strong>#136</strong> · <a href="https://github.com/oss-slu/oss_cicd_automation">oss-slu/oss_cicd_automation</a> · CI / DevOps</sub>
 </td>
 </tr>
-<tr>
 <td width="90" align="center" valign="middle">
 <a href="https://github.com/BlitzKraft/saythanks.io">
 <img src="https://github.com/BlitzKraft.png?size=64" width="36" alt="BlitzKraft"/>
