@@ -125,7 +125,7 @@ Currently engineering at **OBLIQ-in**, working on backend infrastructure, databa
   <td valign="middle">
     <strong><a href="https://github.com/AlgenAI/algen-agent-runtime/pull/107">CI: Add offline Lychee link checker workflow and fix documentation link</a></strong>
     <br/>
-    <img src="https://img.shields.io/badge/⑂-Open-238636?style=flat-square" height="20" alt="Open PR"/>
+    <img src="https://img.shields.io/badge/⑂-Merged-8957e5?style=flat-square" height="20" alt="Merged PR"/>
     <br/>
     <sub><strong>#107</strong> · <a href="https://github.com/AlgenAI/algen-agent-runtime">AlgenAI/algen-agent-runtime</a> · CI / DevOps</sub>
   </td>
