@@ -84,7 +84,7 @@ Currently engineering at **OBLIQ-in**, working on backend infrastructure, databa
 <td valign="middle">
 <strong><a href="https://github.com/oss-slu/oss_cicd_automation/pull/136">feat(ci): add flexible multi-language reusable linting workflow (#131)</a></strong>
 <br/>
-<img src="https://img.shields.io/badge/⑂-Open-238636?style=flat-square" height="20" alt="Open PR"/>
+<img src="https://img.shields.io/badge/⑂-Merged-8957e5?style=flat-square" height="20" alt="Merged PR"/>
 <br/>
 <sub><strong>#136</strong> · <a href="https://github.com/oss-slu/oss_cicd_automation">oss-slu/oss_cicd_automation</a> · CI / DevOps</sub>
 </td>
