@@ -1,5 +1,5 @@
 <!-- DEVTOWN-BANNER:START -->
-[![My DevTown](https://git-devtown.netlify.app/api/banners/abhirajadhikary06.png?mode=night&v=9223)](https://git-devtown.netlify.app/@abhirajadhikary06)
+[![My DevTown](https://git-devtown.netlify.app/api/banners/abhirajadhikary06.png?mode=day&v=9321)](https://git-devtown.netlify.app/@abhirajadhikary06)
 <!-- DEVTOWN-BANNER:END -->
 
 
